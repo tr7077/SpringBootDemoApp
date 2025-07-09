@@ -3,7 +3,6 @@ package com.teorerras.spring_boot_demo.service;
 import com.teorerras.spring_boot_demo.model.Address;
 import com.teorerras.spring_boot_demo.model.Contact;
 import com.teorerras.spring_boot_demo.repository.ContactRepository;
-import com.teorerras.spring_boot_demo.request.ContactRequest;
 import jakarta.persistence.EntityNotFoundException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

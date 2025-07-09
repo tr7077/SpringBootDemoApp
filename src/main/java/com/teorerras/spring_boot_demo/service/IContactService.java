@@ -1,8 +1,6 @@
 package com.teorerras.spring_boot_demo.service;
 
 import com.teorerras.spring_boot_demo.model.Contact;
-import com.teorerras.spring_boot_demo.request.ContactRequest;
-
 import java.util.List;
 
 public interface IContactService {
